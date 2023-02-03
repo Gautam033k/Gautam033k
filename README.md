@@ -35,7 +35,7 @@ I am a self-taught programmer.where i taught myself from various sources to lear
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Gautam033k" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://gautam033.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gowthamk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Gautam_033" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Hi there 👋
+
 
 <!--
 **Gautam033k/Gautam033k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
