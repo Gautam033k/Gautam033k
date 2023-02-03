@@ -9,7 +9,7 @@ I am a self-taught programmer.where i taught myself from various sources to lear
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [website](http://www.gautam-portfolio.com)
 * ✉️  You can contact me at [te.gautam033@gmail.com](mailto:te.gautam033@gmail.com)
-* 🧠  I'm learning React Native
+* 🧠  Currently I'm learning React Native
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: I can solve a 3*3 Rubiks'cube under 1 minute.😎
 
