@@ -7,8 +7,8 @@ Full Stack Web Developer.
 I am a self-taught programmer.where i taught myself from various sources to learn to code , I create websites by using standard HTML/CSS ,Integrate data from various back-end services and databases. I can also do designing(currently in learning stage)
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [website](http://www.gautam-portfolio.com)
-* ✉️  You can contact me at [te.gautam033@gmail.com](mailto:te.gautam033@gmail.com)
+* 🖥️  See my portfolio at [website](https://gowtham.vercel.app/)
+* ✉️  You can contact me at [te.gautham033@gmail.com](mailto:te.gautham033@gmail.com)
 * 🧠  Currently I'm learning React Native
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: I can solve a 3*3 Rubiks'cube under 1 minute.😎
